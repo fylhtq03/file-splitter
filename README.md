@@ -19,7 +19,7 @@ Download the latest `file_splitter.exe` from the [Releases](https://github.com/f
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/file-splitter.git
+git clone https://github.com/fylhtq03/file-splitter.git
 cd file-splitter
 python -m pip install -r requirements.txt
 ```
